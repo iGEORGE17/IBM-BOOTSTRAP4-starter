@@ -1,0 +1,20 @@
+/* css stylesheet */
+
+header.jumbotron {
+    background-color: #111111;
+    color: #ffffff;
+}
+
+footer .social a {
+    padding: 0 0.6rem;
+}
+
+footer .social a:hover {
+    color: silver;
+    cursor:pointer;
+}
+
+.footer {
+    background-color: #444;
+    color: #ffffff;
+}
