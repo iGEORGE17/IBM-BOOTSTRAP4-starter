@@ -3,6 +3,7 @@
 header.jumbotron {
     background-color: #111111;
     color: #ffffff;
+    margin-top: 50px;
 }
 
 footer .social a {
