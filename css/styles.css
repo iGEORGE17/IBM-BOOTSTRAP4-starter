@@ -27,3 +27,7 @@ footer .social a:hover {
 .breadcrumb {
     background-color: #ffffff;
 }
+
+.row-content {
+    min-height: 100vh;
+}
