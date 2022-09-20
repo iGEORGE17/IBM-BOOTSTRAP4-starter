@@ -23,3 +23,7 @@ footer .social a:hover {
 .footer a {
     color: silver;
 }
+
+.breadcrumb {
+    background-color: #ffffff;
+}
