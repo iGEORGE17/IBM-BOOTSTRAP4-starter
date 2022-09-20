@@ -19,3 +19,7 @@ footer .social a:hover {
     background-color: #444;
     color: #ffffff;
 }
+
+.footer a {
+    color: silver;
+}
