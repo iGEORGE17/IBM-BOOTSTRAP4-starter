@@ -18,6 +18,8 @@ footer .social a:hover {
 .footer {
     background-color: #444;
     color: #ffffff;
+    width: 100%;
+    margin-top: 10%;
 }
 
 .footer a {
@@ -29,5 +31,10 @@ footer .social a:hover {
 }
 
 .row-content {
-    min-height: 100vh;
+    min-height: 40vh;
 }
+
+/* .row-content > div:nth-child(2){
+    margin-top: -35%;
+} */
+
