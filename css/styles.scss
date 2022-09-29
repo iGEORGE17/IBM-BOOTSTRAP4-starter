@@ -28,8 +28,8 @@ $carousel-item-height: 300px;
 
 .jumbotron {
     @include zero-margin(70px,30px);
-    background: $background-light ;
-    color:floralwhite;
+    background-color: $background-light !important;
+    color: floralwhite;
 }
 
 address{
@@ -74,4 +74,24 @@ body{
     position: absolute;
     bottom: 0px;
     z-index: 1;
+}
+
+.modal {
+
+    .modal-content {
+        background-color: $background-pale;  
+        color: floralwhite;     
+    }
+
+    .modal-header {
+        background-color: $background-dark; 
+        
+        .modal-title {
+            color: floralwhite;
+        }
+
+        .close {
+            color: floralwhite;
+        }
+    }    
 }
